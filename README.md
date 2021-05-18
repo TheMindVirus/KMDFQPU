@@ -11,4 +11,4 @@ The Read register of Mailbox 0 needs to be set to 0x0 before read/write operatio
 
 https://github.com/raspberrypi/firmware/tree/master/opt/vc/src/hello_pi/hello_fft
 
-![qpudebug](https://github.com/TheMindVirus/KMDFQPU/blob/hello_fft/QPUdebug.png)
+![qpudebug](https://github.com/TheMindVirus/KMDFQPU/blob/mailbox_drv/MailboxDebug.png)
