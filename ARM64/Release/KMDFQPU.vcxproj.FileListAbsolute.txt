@@ -1,0 +1,1 @@
+C:\Users\Alastair\Documents\Visual Studio 2019\Projects\KMDFQPU\ARM64\Release\KMDFQPU.sys
