@@ -6,4 +6,4 @@ https://github.com/raspberrypi/firmware/tree/master/opt/vc/src/hello_pi/hello_ff
 
 Work in Progress V3D Driver for 8x QPU Compute Shaders (both graphics and general purpose)
 
-![qpudebug](https://github.com/TheMindVirus/KMDFQPU/blob/hello_fft/QPUdebug.png)
+![qpudebug](https://github.com/TheMindVirus/KMDFQPU/blob/hello_fft/base_remap.png)
